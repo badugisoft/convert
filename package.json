@@ -1,0 +1,22 @@
+{
+  "name": "bs-convert",
+  "version": "0.2.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bs-convert": "./bin/bs-convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badugisoft/convert.git"
+  },
+  "author": "badugiss",
+  "license": "MIT",
+  "dependencies": {
+    "bs-serializer": "^0.2.0",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {}
+}
